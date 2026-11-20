@@ -1,12 +1,12 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Fri 20 Nov",
-  "now": 7.6, "hi": 9, "lo": 1,
+  "date": "Sat 21 Nov",
+  "now": 2, "hi": 8, "lo": 2,
   "condition": "partly_cloudy",
-  "summary": "Partly cloudy · 15% rain",
+  "summary": "Fog, then sun · 30% rain",
   "headlines": [
-    "PM Burnham in Brussels for UK-EU summit: youth visa and food deals",
-    "COP31 climate talks in Turkey due to end today, still split",
-    "Trump, Xi and Putin hold first three-way summit in China"
+    "UK and EU agree youth mobility and food trade deals",
+    "Estonia to shut its Russian border for at least six months",
+    "IEA: data centre emissions set to rise 70% by 2030"
   ]
 }
