@@ -149,10 +149,11 @@ else:  # partly_cloudy
 
 outlined_text((86, 196), f"{round(data['now'])}°", f(ARCHIVO, 46), RED, stroke=3, anchor="mm")
 text((86, 226), "now", f(COMIC_B, 13), BLACK, anchor="mm")
-d.rounded_rectangle(R(26, 238, 84, 258), radius=9 * S, fill=YELLOW, outline=BLACK, width=2 * S)
-text((55, 248), f"Hi {round(data['hi'])}°", f(COMIC_B, 13), BLACK, anchor="mm")
-d.rounded_rectangle(R(89, 238, 147, 258), radius=9 * S, fill=BLACK)
-text((118, 248), f"Lo {round(data['lo'])}°", f(COMIC_B, 13), WHITE, anchor="mm")
+hi_s, lo_s = f"High {round(data['hi'])}°", f"Low {round(data['lo'])}°"
+d.rounded_rectangle(R(22, 238, 85, 258), radius=9 * S, fill=YELLOW, outline=BLACK, width=2 * S)
+text((53.5, 248), hi_s, fit_font(COMIC_B, hi_s, 13, 56), BLACK, anchor="mm")
+d.rounded_rectangle(R(89, 238, 152, 258), radius=9 * S, fill=BLACK)
+text((120.5, 248), lo_s, fit_font(COMIC_B, lo_s, 13, 56), WHITE, anchor="mm")
 text((86, 273), data["summary"], fit_font(COMIC_B, data["summary"], 10.5, 128), BLACK, anchor="mm")
 
 # ---- news panel ----
