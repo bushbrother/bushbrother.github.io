@@ -1,12 +1,12 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Sat 21 Nov",
-  "now": 2, "hi": 8, "lo": 2,
-  "condition": "partly_cloudy",
-  "summary": "Fog, then sun · 30% rain",
+  "date": "Fri 20 Nov",
+  "now": 8, "hi": 9, "lo": 1,
+  "condition": "cloudy",
+  "summary": "Misty, rain later · 60% rain",
   "headlines": [
     "UK and EU agree youth mobility and food trade deals",
-    "Estonia to shut its Russian border for at least six months",
-    "IEA: data centre emissions set to rise 70% by 2030"
+    "COP31 talks stall as Turkey secures $26bn in green deals",
+    "IMF warns global debt nearing 100% of world GDP"
   ]
 }
