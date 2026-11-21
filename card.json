@@ -1,12 +1,12 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Fri 20 Nov",
-  "now": 8, "hi": 9, "lo": 1,
+  "date": "Sat 21 Nov",
+  "now": 6, "hi": 8, "lo": 6,
   "condition": "cloudy",
-  "summary": "Misty, rain later · 60% rain",
+  "summary": "Foggy · 30% rain",
   "headlines": [
-    "UK and EU agree youth mobility and food trade deals",
-    "COP31 talks stall as Turkey secures $26bn in green deals",
-    "IMF warns global debt nearing 100% of world GDP"
+    "EU and UK seal post-Brexit reset deal at summit",
+    "Europe rejects 'Yalta 2.0' carve-up plan for Ukraine",
+    "Study: heat pumps can warm a home for about 2 euros a day"
   ]
 }
