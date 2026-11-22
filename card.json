@@ -1,12 +1,12 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Sat 21 Nov",
-  "now": 6, "hi": 8, "lo": 6,
+  "date": "Sun 22 Nov",
+  "now": 3, "hi": 9, "lo": 1,
   "condition": "cloudy",
-  "summary": "Foggy · 30% rain",
+  "summary": "Cloudy · 30% rain",
   "headlines": [
-    "EU and UK seal post-Brexit reset deal at summit",
-    "Europe rejects 'Yalta 2.0' carve-up plan for Ukraine",
-    "Study: heat pumps can warm a home for about 2 euros a day"
+    "Suffolk village votes to 'leave UK' over asylum plan",
+    "Zelenskyy calls Putin a 'killer' after Trump praise",
+    "Madeira marine reserves working, but sharks raise concern"
   ]
 }
