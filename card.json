@@ -1,12 +1,12 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Sun 22 Nov",
-  "now": 3, "hi": 9, "lo": 1,
-  "condition": "cloudy",
-  "summary": "Cloudy · 30% rain",
+  "date": "Mon 23 Nov",
+  "now": 1, "hi": 8, "lo": 1,
+  "condition": "partly_cloudy",
+  "summary": "Sunny intervals · 10% rain",
   "headlines": [
-    "Suffolk village votes to 'leave UK' over asylum plan",
-    "Zelenskyy calls Putin a 'killer' after Trump praise",
-    "Madeira marine reserves working, but sharks raise concern"
+    "COP31 climate talks end without fossil fuel deal",
+    "UEFA fines FA over England fans' chants in Spain game",
+    "FBI investigates breach of its criminal records database"
   ]
 }
