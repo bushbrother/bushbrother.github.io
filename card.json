@@ -1,12 +1,12 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Tue 24 Nov",
-  "now": 4, "hi": 7, "lo": 2,
+  "date": "Wed 25 Nov",
+  "now": 3, "hi": 7, "lo": 2,
   "condition": "cloudy",
-  "summary": "Overcast · mostly dry",
+  "summary": "Overcast · under 10% rain",
   "headlines": [
-    "UK weighs closer cooperation with the EU",
-    "EU and Indonesia sign free trade deal",
-    "Korean minister quits over AI exam cheating row"
+    "Burnham's backing for new EU vote surprises Cabinet",
+    "EU proposes 22nd sanctions package against Russia",
+    "Nvidia reinstates Jensen Huang as CEO, shares jump"
   ]
 }
