@@ -1,12 +1,14 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Wed 25 Nov",
-  "now": 3, "hi": 7, "lo": 2,
-  "condition": "cloudy",
-  "summary": "Overcast · under 10% rain",
+  "date": "Thu 26 Nov",
+  "now": 5,
+  "hi": 6,
+  "lo": 0,
+  "condition": "partly_cloudy",
+  "summary": "Sunny spells · <5% rain",
   "headlines": [
-    "Burnham's backing for new EU vote surprises Cabinet",
-    "EU proposes 22nd sanctions package against Russia",
-    "Nvidia reinstates Jensen Huang as CEO, shares jump"
+    "Energy price cap to rise 26% from January",
+    "Surprise Eurostar strike halts Paris-London trains",
+    "Pakistani astronaut launches aboard Chinese rocket"
   ]
 }
