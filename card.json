@@ -1,14 +1,14 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Thu 26 Nov",
-  "now": 5,
-  "hi": 6,
-  "lo": 0,
-  "condition": "partly_cloudy",
-  "summary": "Sunny spells · <5% rain",
+  "date": "Fri 27 Nov",
+  "now": 1,
+  "hi": 7,
+  "lo": 1,
+  "condition": "cloudy",
+  "summary": "Cloudy · 50% rain",
   "headlines": [
-    "Energy price cap to rise 26% from January",
-    "Surprise Eurostar strike halts Paris-London trains",
-    "Pakistani astronaut launches aboard Chinese rocket"
+    "UK settlement grants hit record 241,000",
+    "EU leaders clash over budget ahead of summit",
+    "Argentina's economy enters technical recession"
   ]
 }
