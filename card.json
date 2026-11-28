@@ -1,14 +1,14 @@
 {
   "place": "Walton-on-Thames",
-  "date": "Fri 27 Nov",
-  "now": 1,
-  "hi": 7,
-  "lo": 1,
-  "condition": "cloudy",
-  "summary": "Cloudy · 50% rain",
+  "date": "Sat 28 Nov",
+  "now": 6,
+  "hi": 10,
+  "lo": 6,
+  "condition": "rain",
+  "summary": "Showers · 4mm rain",
   "headlines": [
-    "UK settlement grants hit record 241,000",
-    "EU leaders clash over budget ahead of summit",
-    "Argentina's economy enters technical recession"
+    "Lloyds banking apps hit by payday outage",
+    "Canada court upholds most of Quebec secular law",
+    "Marc Marquez to retire from MotoGP after Valencia"
   ]
 }
